@@ -1,3 +1,11 @@
+@font-face {
+  font-family: Adenium;
+  src: url(fontes/Adenium\ Monogram.otf);
+}
+@font-face {
+  font-family: Star;
+  src: url(fontes/Starborn.otf);
+}
 * {
     margin: 0;
     padding: 0;
@@ -108,3 +116,13 @@
     padding: 10px;
   }
   
+  .nome {
+    font-family: Adenium;
+    font-size: 100px;
+    letter-spacing: 50px;
+  }
+
+  .intro {
+    font-family: Star;
+    
+  }
