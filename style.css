@@ -117,8 +117,9 @@
   }
   
   .nome {
-    font-family: Adenium;
+    font-family: Star;
     letter-spacing: 50px;
+    text-align: center;
   }
 
   .intro {
