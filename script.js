@@ -1,4 +1,3 @@
-
 // Seleciona elementos da galeria e o overlay
 const galleryItems = document.querySelectorAll(".gallery-item");
 const overlay = document.getElementById("overlay");
